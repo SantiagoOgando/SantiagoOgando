@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Algorithm for File Updates in Python](https://github.com/SantiagoOgando/LABURL)
+- [Algorithm for File Updates in Python](https://github.com/SantiagoOgando/AlgorithmForFileUpdatesInPython)
 
 <h2>📄 Certifications</h2>
 
