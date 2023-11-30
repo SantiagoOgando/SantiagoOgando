@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Algorithm for File Updates in Python](https://github.com/SantiagoOgando/AlgorithmForFileUpdatesInPython)
+- [Apply Filters to SQL Queries](https://github.com/SantiagoOgando/ApplyFiltersToSQLQueries)
 
 <h2>📄 Certifications</h2>
 
